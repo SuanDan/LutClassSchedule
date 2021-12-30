@@ -1,6 +1,6 @@
-# HHUClassSchedule
+# LutClassSchedule
 
-> HHU课程表是一个简洁高效无广告的课程表软件，正在开发中
+> Lut课程表是一个简洁高效无广告的课程表软件，正在开发中
 
 # 特点
 
